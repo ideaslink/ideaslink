@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ai, ml, mobile...
 - 💞️ I’m looking to collaborate on architecture, programming, and fix/enhancement...
 - 📫 Suggestions? please drop me a line
-- ✨ Thanks and Happy coding!
+- ✨ Happy coding!
 
 <!---
 ideaslink/ideaslink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
